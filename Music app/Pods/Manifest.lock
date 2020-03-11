@@ -1,0 +1,16 @@
+PODS:
+  - AudioPlayerSwift (2.0.0)
+
+DEPENDENCIES:
+  - AudioPlayerSwift
+
+SPEC REPOS:
+  trunk:
+    - AudioPlayerSwift
+
+SPEC CHECKSUMS:
+  AudioPlayerSwift: 26d1c95f177f5bd195be482a41538d7ab8d04dd9
+
+PODFILE CHECKSUM: 9f0788104f6022d821d8ca260249df25fbf50574
+
+COCOAPODS: 1.8.4
